@@ -9,10 +9,13 @@ In my thought, when I heared about Technical Writing, it is just all about codin
 
 Github
 ------
-
 I did not know about Github until I attended to this Technical Writing. This is my first time working with Github, I can tell this is a good program that everyone should know. To using this one, it will take only a few easy steps to sign up. I did read the lesson "Hello World Github Guide" to help me get use to this program and know how to creating projects.
- 
  
  The Programming Historian and PierceHacker
  ------
-    
+The particular audience for The Programming Historian are students and tutors to giving key lessons, which is really useful. 
+The particular audience for the Pierce Hacker are students, professors, and parents to looking for classes or information about schools.
+
+Final
+------
+In this week I learned to know about Technical Writing as what it is and how it works.
