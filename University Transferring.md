@@ -18,10 +18,10 @@ a University. This lesson is providing the online pages that cover the applicati
 
 ## Overview
 
->Using and understanding Microsoft Excel for Statistics students
+>This lesson is for tranferring students to a fourth- year University.
 
 ## Lesson Steps/Components [as many as needed]
-
+> This lessons will be covered tranfer resources of some Universities in Washington. Each sources will contain the tranfer information, for exapme: tranfer requirements, application forms, due date for application and some criteria for specific majors. 
 
 
 >SUM in Excel
