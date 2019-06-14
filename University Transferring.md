@@ -32,9 +32,9 @@ a University. This lesson is providing the online pages that cover the applicati
 ------------
 [Creating a Histogram in Microsoft Excel](https://www.youtube.com/watch?v=53DOu_vstvI)
 
->Pie Chart
+>Seattle University
 -----------
-[Creating a Pie Chart](https://www.youtube.com/watch?v=ZKa35Iz-aZ4)
+[Transfer Admission](https://www.seattleu.edu/undergraduate-admissions/apply/transfer/)
 
 >Pacific Lutheran Univeristy
 ------------------
