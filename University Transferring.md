@@ -24,9 +24,9 @@ a University. This lesson is providing the online pages that cover the applicati
 > This lessons will be covered tranfer resources of some Universities in Washington. Each sources will contain the tranfer information, for exapme: tranfer requirements, application forms, due date for application and some criteria for specific majors. 
 
 
->SUM in Excel
+>Washington State University
 ------------- 
-[How to Make a Totaling Column Formula in Excel](https://www.youtube.com/watch?v=UgeEeEESJxE)
+[Transfer Students] (https://admission.wsu.edu/apply/as/transfer/requirements-2/)
 
 >University of Washington
 ------------
