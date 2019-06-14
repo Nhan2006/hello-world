@@ -1,20 +1,20 @@
 ---
 Title|Authors|Date|Reviewers|Layout|Difficulty Level|
 ---|---|---|---|---|---|
-Excel Tutorial for Stat Students|Uyen Do -Luke - Ivan| 05-22-2019|Jason Loan| Lesson|Intermediate|
+Univeristy Transfer Sources for Transferring Students|Nhan Nguyen| 06-14-2019|Jason Loan| Lesson|Intermediate|
 
 ---
 
 ## Lesson Abstact
->Excel has the ability to formulate equations and create graphs to help users evaluate the data they want to use. The lesson will be about how to apply those functions to analyze the input value. Using these data to have many different graphs. Those lesson will be more specific for Stat students, who are looking for how to deal with Excel functions.
-
+>This lesson is helping students who want to tranfer to four year University know where to find source and how to tranfer to 
+a University. This lesson is providing the online pages that cover the application information and some related sources for tranferring. 
 ## Lesson Objectives/Outcomes
->Evaluate data using formulas for a desired output
-Create graphs using given data to have a visual representation
+>show how to find the sources for tranferring
+>Know how to apply to a University
 
 ## Materials
 
->Excel will be required for this lesson
+>A web browser will be required for this lesson
 
 ## Overview
 
