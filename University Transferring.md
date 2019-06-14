@@ -24,19 +24,19 @@ a University. This lesson is providing the online pages that cover the applicati
 > This lessons will be covered tranfer resources of some Universities in Washington. Each sources will contain the tranfer information, for exapme: tranfer requirements, application forms, due date for application and some criteria for specific majors. 
 
 
->Washington State University
+-Washington State University
 ------------- 
-[Transfer Students] (https://admission.wsu.edu/apply/as/transfer/requirements-2/)
+[Transfer Students](https://admission.wsu.edu/apply/as/transfer/requirements-2/)
 
->University of Washington
+-University of Washington
 ------------
 [Transfer](https://admit.washington.edu/apply/transfer/)
 
->Seattle University
+-Seattle University
 -----------
 [Transfer Admission](https://www.seattleu.edu/undergraduate-admissions/apply/transfer/)
 
->Pacific Lutheran Univeristy
+-Pacific Lutheran Univeristy
 ------------------
 [Apply| Transfer](https://www.plu.edu/admission-transfer/apply/)
 
