@@ -40,6 +40,29 @@ a University. This lesson is providing the online pages that cover the applicati
 ------------------
 [Apply| Transfer](https://www.plu.edu/admission-transfer/apply/)
 
+-Western Washington Univeristy
+------------------
+[Transfer](https://admissions.wwu.edu/transfer)
+
+-Seattle Pacific University
+------------------
+[Transfer](https://spu.edu/catalog/undergraduate/20190/admissions/transfer-students)
+
+-University of Puget Sound
+------------------
+[Transfer Students](https://www.pugetsound.edu/admission/apply/transfer-students/)
+
+-Central Washington Univeristy
+------------------
+[Admission| Transfer Admission](http://www.cwu.edu/admissions/transfer-admission-criteria)
+
+-Western Washington Univeristy
+------------------
+[Transfer](https://admissions.wwu.edu/transfer)
+
+-Western Washington Univeristy
+------------------
+[Transfer](https://admissions.wwu.edu/transfer)
 
 ## Credits, Further Reading, etc.
 
