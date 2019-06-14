@@ -36,9 +36,9 @@ a University. This lesson is providing the online pages that cover the applicati
 -----------
 [Creating a Pie Chart](https://www.youtube.com/watch?v=ZKa35Iz-aZ4)
 
->Cluster column and Stack Column in Excel
+>Pacific Lutheran Univeristy
 ------------------
-[Clustered Stacked Bar Chart In Excel](https://www.youtube.com/watch?v=bQs0p3VxmZQ)
+[Apply| Transfer](https://www.plu.edu/admission-transfer/apply/)
 
 
 ## Credits, Further Reading, etc.
