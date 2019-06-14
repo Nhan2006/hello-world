@@ -28,9 +28,9 @@ a University. This lesson is providing the online pages that cover the applicati
 ------------- 
 [How to Make a Totaling Column Formula in Excel](https://www.youtube.com/watch?v=UgeEeEESJxE)
 
->Histogram
+>University of Washington
 ------------
-[Creating a Histogram in Microsoft Excel](https://www.youtube.com/watch?v=53DOu_vstvI)
+[Transfer](https://admit.washington.edu/apply/transfer/)
 
 >Seattle University
 -----------
