@@ -56,13 +56,7 @@ a University. This lesson is providing the online pages that cover the applicati
 ------------------
 [Admission| Transfer Admission](http://www.cwu.edu/admissions/transfer-admission-criteria)
 
--Western Washington Univeristy
-------------------
-[Transfer](https://admissions.wwu.edu/transfer)
 
--Western Washington Univeristy
-------------------
-[Transfer](https://admissions.wwu.edu/transfer)
 
 ## Credits, Further Reading, etc.
 
